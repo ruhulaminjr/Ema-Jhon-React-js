@@ -1,0 +1,20 @@
+.product {
+  display: flex;
+  gap: 10px;
+  border-bottom: 1px solid lightgray;
+  margin-right: 10px;
+}
+.product-title {
+  color: rgb(20, 20, 131);
+}
+.btn-regular {
+  width: 200px;
+  height: 30px;
+  background: rgb(245, 188, 44);
+  border: 1px solid gray;
+  cursor: pointer;
+  border-radius: 5px;
+}
+.icon-color{
+  color: goldenrod;
+}

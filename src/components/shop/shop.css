@@ -1,0 +1,13 @@
+.shop-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  width: 80%;
+  margin: 20px auto;
+  padding: 20px;
+}
+.product-container {
+  border-right: 1px solid lightgray;
+}
+.card-contaier {
+  margin: 0 10px;
+}
